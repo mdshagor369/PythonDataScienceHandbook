@@ -8,6 +8,9 @@ This is Book fo Data Science named Python Date Science Handbook from O'REILLY
 
 ## 🛠 Skills
 * Python
+* Python2
+* Python3
+* Pip
 
 ## Screenshots
 
