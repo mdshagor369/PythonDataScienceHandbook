@@ -5,7 +5,7 @@ This is Book fo Data Science named Python Date Science Handbook from O'REILLY. |
 Python is nice and easy to learn. ||
 
 
-
+Need to know this things.
 ## 🛠 Skills
 * Python
 * Python2
